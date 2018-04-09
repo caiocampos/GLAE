@@ -1,0 +1,82 @@
+# depslib dependency file v1.0
+1384269630 source:d:\caio\dropbox\arquivos\estudo\c\projetotcc\teste1.c
+	<stdio.h>
+	<janela.h>
+
+1375141285 d:\caio\dropbox\arquivos\estudo\c\projetotcc\include\janela.h
+	"forma.h"
+
+1380633267 d:\caio\dropbox\arquivos\estudo\c\projetotcc\include\forma.h
+	"extra.h"
+
+1375313352 d:\caio\dropbox\arquivos\estudo\c\projetotcc\include\extra.h
+	<GLFW/glfw3.h>
+
+1371418444 d:\caio\dropbox\arquivos\estudo\c\projetotcc\include\glfw\glfw3.h
+	<stddef.h>
+	<OpenGL/gl3.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/glcorearb.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<GLES3/gl3.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1375878286 source:d:\programação\projeto tcc caio\projetotcc (2013-08-21)\teste1.c
+	<stdio.h>
+	"janela.h"
+
+1375137686 d:\programação\projeto tcc caio\projetotcc (2013-08-21)\include\janela.h
+	"forma.h"
+
+1375144186 d:\programação\projeto tcc caio\projetotcc (2013-08-21)\include\forma.h
+	"extra.h"
+
+1375309752 d:\programação\projeto tcc caio\projetotcc (2013-08-21)\include\extra.h
+	<GLFW/glfw3.h>
+
+1371425644 d:\programação\projeto tcc caio\projetotcc (2013-08-21)\include\glfw\glfw3.h
+	<stddef.h>
+	<OpenGL/gl3.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/glcorearb.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<GLES3/gl3.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1384266030 source:d:\caio\dropbox\tcc\projetotcc\teste1.c
+	<stdio.h>
+	<janela.h>
+
+1395146820 d:\caio\dropbox\tcc\projetotcc\include\janela.h
+	"forma.h"
+
+1395146834 d:\caio\dropbox\tcc\projetotcc\include\forma.h
+	"tinycthread.h"
+	"extra.h"
+
+1347057020 d:\caio\dropbox\tcc\projetotcc\include\tinycthread.h
+	<time.h>
+	<pthread.h>
+	<windows.h>
+
+1395146857 d:\caio\dropbox\tcc\projetotcc\include\extra.h
+	<GLFW/glfw3.h>
+
+1371414844 d:\caio\dropbox\tcc\projetotcc\include\glfw\glfw3.h
+	<stddef.h>
+	<OpenGL/gl3.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/glcorearb.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<GLES3/gl3.h>
+	<GL/gl.h>
+	<GL/glu.h>
+

@@ -1,0 +1,113 @@
+# depslib dependency file v1.0
+1395684812 source:d:\caio\dropbox\arquivos\estudo\c\projetotcc\src\extra.c
+	<extra.h>
+
+1395685606 d:\caio\dropbox\arquivos\estudo\c\projetotcc\include\extra.h
+	<GLFW/glfw3.h>
+
+1371414844 d:\caio\dropbox\arquivos\estudo\c\projetotcc\include\glfw\glfw3.h
+	<stddef.h>
+	<OpenGL/gl3.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/glcorearb.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<GLES3/gl3.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1395685453 source:d:\caio\dropbox\arquivos\estudo\c\projetotcc\src\forma.c
+	<stdlib.h>
+	<math.h>
+	<ft2build.h>
+	"forma.h"
+
+1237038326 d:\caio\dropbox\arquivos\estudo\c\projetotcc\include\ft2build.h
+	<freetype/config/ftheader.h>
+
+1369774803 d:\caio\dropbox\arquivos\estudo\c\projetotcc\include\freetype\config\ftheader.h
+
+1395685567 d:\caio\dropbox\arquivos\estudo\c\projetotcc\include\forma.h
+	"tinycthread.h"
+	"extra.h"
+
+1347057020 source:d:\caio\dropbox\arquivos\estudo\c\projetotcc\src\tinycthread.c
+	"tinycthread.h"
+	<stdlib.h>
+	<signal.h>
+	<sched.h>
+	<unistd.h>
+	<sys/time.h>
+	<errno.h>
+	<process.h>
+	<sys/timeb.h>
+
+1347057020 d:\caio\dropbox\arquivos\estudo\c\projetotcc\include\tinycthread.h
+	<time.h>
+	<pthread.h>
+	<windows.h>
+
+1395272510 source:d:\caio\dropbox\arquivos\estudo\c\projetotcc\src\janela.c
+	<stdlib.h>
+	<janela.h>
+
+1395146820 d:\caio\dropbox\arquivos\estudo\c\projetotcc\include\janela.h
+	"forma.h"
+
+1395143312 source:d:\caio\dropbox\tcc\projetotcc\src\extra.c
+	<extra.h>
+
+1395146857 d:\caio\dropbox\tcc\projetotcc\include\extra.h
+	<GLFW/glfw3.h>
+
+1371425644 d:\caio\dropbox\tcc\projetotcc\include\glfw\glfw3.h
+	<stddef.h>
+	<OpenGL/gl3.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/glcorearb.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<GLES3/gl3.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1395143855 source:d:\caio\dropbox\tcc\projetotcc\src\forma.c
+	<stdlib.h>
+	<math.h>
+	<ft2build.h>
+	"forma.h"
+
+1237038326 d:\caio\dropbox\tcc\projetotcc\include\ft2build.h
+	<freetype/config/ftheader.h>
+
+1369774803 d:\caio\dropbox\tcc\projetotcc\include\freetype\config\ftheader.h
+
+1395146834 d:\caio\dropbox\tcc\projetotcc\include\forma.h
+	"tinycthread.h"
+	"extra.h"
+
+1347067820 d:\caio\dropbox\tcc\projetotcc\include\tinycthread.h
+	<time.h>
+	<pthread.h>
+	<windows.h>
+
+1347057020 source:d:\caio\dropbox\tcc\projetotcc\src\tinycthread.c
+	"tinycthread.h"
+	<stdlib.h>
+	<signal.h>
+	<sched.h>
+	<unistd.h>
+	<sys/time.h>
+	<errno.h>
+	<process.h>
+	<sys/timeb.h>
+
+1395272510 source:d:\caio\dropbox\tcc\projetotcc\src\janela.c
+	<stdlib.h>
+	<janela.h>
+
+1395146820 d:\caio\dropbox\tcc\projetotcc\include\janela.h
+	"forma.h"
+
