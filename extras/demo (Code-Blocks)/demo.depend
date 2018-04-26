@@ -1,0 +1,113 @@
+# depslib dependency file v1.0
+1379451845 source:d:\caio\dropbox\ufu\7º período\projeto e desenvolvimento de si 1\trabalho final\projetotcc\demo.c
+	<stdio.h>
+	<janela.h>
+	<string.h>
+
+1375137685 d:\caio\dropbox\ufu\7º período\projeto e desenvolvimento de si 1\trabalho final\projetotcc\include\janela.h
+	"forma.h"
+
+1375144185 d:\caio\dropbox\ufu\7º período\projeto e desenvolvimento de si 1\trabalho final\projetotcc\include\forma.h
+	"extra.h"
+
+1375309752 d:\caio\dropbox\ufu\7º período\projeto e desenvolvimento de si 1\trabalho final\projetotcc\include\extra.h
+	<GLFW/glfw3.h>
+
+1371414844 d:\caio\dropbox\ufu\7º período\projeto e desenvolvimento de si 1\trabalho final\projetotcc\include\glfw\glfw3.h
+	<stddef.h>
+	<OpenGL/gl3.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/glcorearb.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<GLES3/gl3.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1384260454 source:d:\caio\dropbox\demo\demo.c
+	<stdio.h>
+	<janela.h>
+	<string.h>
+
+1375141285 d:\caio\dropbox\demo\include\janela.h
+	"forma.h"
+
+1375147785 d:\caio\dropbox\demo\include\forma.h
+	"extra.h"
+
+1375313352 d:\caio\dropbox\demo\include\extra.h
+	<GLFW/glfw3.h>
+
+1371418444 d:\caio\dropbox\demo\include\glfw\glfw3.h
+	<stddef.h>
+	<OpenGL/gl3.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/glcorearb.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<GLES3/gl3.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1386009337 source:d:\caio\dropbox\arquivos\tutorial ptcc\demo\demo.c
+	<stdio.h>
+	<janela.h>
+	<string.h>
+	<ctype.h>
+
+1384972457 d:\caio\dropbox\arquivos\tutorial ptcc\demo\include\janela.h
+	"forma.h"
+
+1386004075 d:\caio\dropbox\arquivos\tutorial ptcc\demo\include\forma.h
+	"extra.h"
+
+1375313352 d:\caio\dropbox\arquivos\tutorial ptcc\demo\include\extra.h
+	<GLFW/glfw3.h>
+
+1371418444 d:\caio\dropbox\arquivos\tutorial ptcc\demo\include\glfw\glfw3.h
+	<stddef.h>
+	<OpenGL/gl3.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/glcorearb.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<GLES3/gl3.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1386009337 source:d:\caio\dropbox\tcc\demo\demo.c
+	<stdio.h>
+	<janela.h>
+	<string.h>
+	<ctype.h>
+
+1384972457 d:\caio\dropbox\tcc\demo\include\janela.h
+	"forma.h"
+
+1392116795 d:\caio\dropbox\tcc\demo\include\forma.h
+	"tinycthread.h"
+	"extra.h"
+
+1347060620 d:\caio\dropbox\tcc\demo\include\tinycthread.h
+	<time.h>
+	<pthread.h>
+	<windows.h>
+
+1375313352 d:\caio\dropbox\tcc\demo\include\extra.h
+	<GLFW/glfw3.h>
+
+1371418444 d:\caio\dropbox\tcc\demo\include\glfw\glfw3.h
+	<stddef.h>
+	<OpenGL/gl3.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/glcorearb.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<GLES3/gl3.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
